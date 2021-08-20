@@ -1,0 +1,315 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Calendar</title>
+
+<!-- Mian Style for the Web App-->
+<link rel="stylesheet" href="Assets/css/main.css">
+
+<!-- Bootstrap -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+
+<!-- Fluent UI Insert-->
+<link rel="stylesheet" href="https://static2.sharepointonline.com/files/fabric/office-ui-fabric-core/11.0.0/css/fabric.min.css"/>
+
+
+
+</head>
+<body>
+
+        <!-- Nav Bar Insert **BOOTSTRAP ** Will change layout-->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="#"><div class="ms-BrandIcon--icon48 ms-BrandIcon--outlook"></div></a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarText">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="#">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Features</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Pricing</a>
+              </li>
+            </ul>
+            <span class="navbar-text">
+              Navbar text with an inline element
+            </span>
+          </div>
+        </div>
+      </nav>
+
+      <!-- END OF NAVBAR-->
+
+      <!-- Header -->
+      <header>
+
+        <h3 class="ms-fontSize-42 ms-fontweight-Regular">Welcome to Blazor Calendar</h3>
+
+        <!-- Not Authenticated Users-->
+        
+        <a href="#" class="microsoft-login-button shadow-effect"><img src = "Assets/Images/Windows-Logo-PNG-Free-Image.png" alt="">Sign In</a>
+      </header>
+
+      <div class="row">
+
+        <!-- Calendar-->
+        <div class="col-sm-12 col-lg-9">
+            <table class="calendar-table">
+                <thead>
+                    <tr>
+                        <!-- Days of the Week-->
+                        <td>Sun</td>
+                        <td>Mon</td>
+                        <td>Tue</td>
+                        <td>Wed</td>
+                        <td>Thur</td>
+                        <td>Fri</td>
+                        <td>Sat</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>
+                            <div class="day shadow-effect current-day selected-day">
+                                <h3 class="ms-fontSize-24 ms-fontweight-Regular">01</h3>
+                                <!-- Class to Display Event Sequence-->
+                                <div class="day-event magenta">
+                                    Test Event
+                                </div>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="day shadow-effect">
+                                <h3 class="ms-fontSize-24 ms-fontweight-Regular">01</h3>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="day shadow-effect">
+                                <h3 class="ms-fontSize-24 ms-fontweight-Regular">01</h3>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="day shadow-effect">
+                                <h3 class="ms-fontSize-24 ms-fontweight-Regular">01</h3>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="day shadow-effect">
+                                <h3 class="ms-fontSize-24 ms-fontweight-Regular">01</h3>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="day shadow-effect">
+                                <h3 class="ms-fontSize-24 ms-fontweight-Regular">01</h3>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="day shadow-effect">
+                                <h3 class="ms-fontSize-24 ms-fontweight-Regular">01</h3>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div class="day shadow-effect">
+                                <h3 class="ms-fontSize-24 ms-fontweight-Regular">01</h3>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="day shadow-effect">
+                                <h3 class="ms-fontSize-24 ms-fontweight-Regular">01</h3>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="day shadow-effect">
+                                <h3 class="ms-fontSize-24 ms-fontweight-Regular">01</h3>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="day shadow-effect">
+                                <h3 class="ms-fontSize-24 ms-fontweight-Regular">01</h3>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="day shadow-effect">
+                                <h3 class="ms-fontSize-24 ms-fontweight-Regular">01</h3>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="day shadow-effect">
+                                <h3 class="ms-fontSize-24 ms-fontweight-Regular">01</h3>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="day shadow-effect">
+                                <h3 class="ms-fontSize-24 ms-fontweight-Regular">01</h3>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div class="day shadow-effect">
+                                <h3 class="ms-fontSize-24 ms-fontweight-Regular">01</h3>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="day shadow-effect">
+                                <h3 class="ms-fontSize-24 ms-fontweight-Regular">01</h3>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="day shadow-effect">
+                                <h3 class="ms-fontSize-24 ms-fontweight-Regular">01</h3>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="day shadow-effect">
+                                <h3 class="ms-fontSize-24 ms-fontweight-Regular">01</h3>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="day shadow-effect">
+                                <h3 class="ms-fontSize-24 ms-fontweight-Regular">01</h3>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="day shadow-effect">
+                                <h3 class="ms-fontSize-24 ms-fontweight-Regular">01</h3>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="day shadow-effect">
+                                <h3 class="ms-fontSize-24 ms-fontweight-Regular">01</h3>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div class="day shadow-effect">
+                                <h3 class="ms-fontSize-24 ms-fontweight-Regular">01</h3>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="day shadow-effect">
+                                <h3 class="ms-fontSize-24 ms-fontweight-Regular">01</h3>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="day shadow-effect">
+                                <h3 class="ms-fontSize-24 ms-fontweight-Regular">01</h3>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="day shadow-effect">
+                                <h3 class="ms-fontSize-24 ms-fontweight-Regular">01</h3>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="day shadow-effect">
+                                <h3 class="ms-fontSize-24 ms-fontweight-Regular">01</h3>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="day shadow-effect">
+                                <h3 class="ms-fontSize-24 ms-fontweight-Regular">01</h3>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="day shadow-effect">
+                                <h3 class="ms-fontSize-24 ms-fontweight-Regular">01</h3>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div class="day shadow-effect">
+                                <h3 class="ms-fontSize-24 ms-fontweight-Regular">01</h3>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="day shadow-effect">
+                                <h3 class="ms-fontSize-24 ms-fontweight-Regular">01</h3>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="day shadow-effect">
+                                <h3 class="ms-fontSize-24 ms-fontweight-Regular">01</h3>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="day shadow-effect">
+                                <h3 class="ms-fontSize-24 ms-fontweight-Regular">01</h3>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="day shadow-effect">
+                                <h3 class="ms-fontSize-24 ms-fontweight-Regular">01</h3>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="day shadow-effect">
+                                <h3 class="ms-fontSize-24 ms-fontweight-Regular">01</h3>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="day shadow-effect">
+                                <h3 class="ms-fontSize-24 ms-fontweight-Regular">01</h3>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div class="day shadow-effect">
+                                <h3 class="ms-fontSize-24 ms-fontweight-Regular">01</h3>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="day shadow-effect">
+                                <h3 class="ms-fontSize-24 ms-fontweight-Regular">01</h3>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="day shadow-effect">
+                                <h3 class="ms-fontSize-24 ms-fontweight-Regular">01</h3>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="day shadow-effect">
+                                <h3 class="ms-fontSize-24 ms-fontweight-Regular">01</h3>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="day shadow-effect">
+                                <h3 class="ms-fontSize-24 ms-fontweight-Regular">01</h3>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="day shadow-effect">
+                                <h3 class="ms-fontSize-24 ms-fontweight-Regular">01</h3>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="day shadow-effect">
+                                <h3 class="ms-fontSize-24 ms-fontweight-Regular">01</h3>
+                            </div>
+                        </td>
+                    </tr>
+                    
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Day -->
+        <div class="col-sm-12 col-lg-3"></div>
+
+      </div>
+    
+</body>
+</html>
