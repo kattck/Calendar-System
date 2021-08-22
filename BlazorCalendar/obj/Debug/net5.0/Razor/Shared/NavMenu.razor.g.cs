@@ -86,6 +86,20 @@ using BlazorCalendar.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 12 "C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\_Imports.razor"
+using BlazorCalendar.Components;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 13 "C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\_Imports.razor"
+using BlazorCalendar.Models;
+
+#line default
+#line hidden
+#nullable disable
     public partial class NavMenu : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
