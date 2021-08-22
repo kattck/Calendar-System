@@ -107,3 +107,61 @@ header {
 .boderBlue{
     color: #0078d4;
 }
+
+/* Calendar Day Section*/
+
+.calednar-toolbar{
+
+    background: #0078d4;
+    color: white; 
+}
+
+.toolbar-button{
+
+    background: #0078d4;
+    margin: 0px;
+    padding: 5px 10px;
+    font-size: 15px;
+    font-weight: 100px;
+    width: 100%;
+    text-align: center;
+    vertical-align: middle;
+    outline: none;
+    color: white;
+    border: none;
+}
+
+.toolbar-button:hover{
+    background: #004578;
+}
+
+.toolbar-button:focus{
+    border: none;
+    outline: none;
+}
+
+/*  Input Styles  */
+
+.fluent-input{
+    display: block;
+    width: 100%;
+    padding: 3 7px;
+    margin: 10 0px;
+    border: 1px solid #3b3a39;
+
+}
+
+.fluent-input:focus{
+    outline: none;
+    border: 2px dashed #0078d4;
+}
+
+.card-content{
+    padding: 10px;
+}
+
+.event{
+    border-radius: 5px;
+    margin: 5px;
+    padding: 5px;
+}
