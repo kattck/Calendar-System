@@ -68,6 +68,11 @@ header {
     cursor: pointer;
 }
 
+.calendar-table td{
+    
+    padding: 2px;
+}
+
 /* Current Day Indicator */
 .current-day {
     border: 2px solid #0078d4;
