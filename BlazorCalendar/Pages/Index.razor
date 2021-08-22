@@ -1,0 +1,18 @@
+﻿@page "/"
+
+   <!-- Header -->
+    <header>
+
+        <h3 class="ms-fontSize-42 ms-fontweight-Regular">Welcome to Blazor Calendar</h3>
+
+        <!-- Not Authenticated Users-->
+        <AuthorizeView>
+            <NotAuthorized>
+              <a href="#" class="microsoft-login-button shadow-effect"><img src = "Assets/Images/Windows-Logo-PNG-Free-Image.png" alt="">Sign In</a>
+            </NotAuthorized>
+        </AuthorizeView>
+    </header>
+
+    <!-- Calendar Component -->
+
+    
