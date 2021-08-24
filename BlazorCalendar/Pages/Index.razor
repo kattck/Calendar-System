@@ -17,6 +17,19 @@
     <div class  = "row">
     <!-- Calendar-->
         <div class="col-sm-12 col-md-12 col-lg-9">
-            <Calendar />
+            <Calendar>
+                <DayTemplate Context="day">
+                    @{
+                        string currentDayClass = day.Date == DateTime.Now.Date ? "current-day" : "";
+                    }
+                    
+                    if(!day.IsEmpty)
+                    {
+                        <div class="day shadow-effect @currentDayClass">
+                            <h3 calss="ms-fontsize-24 ms-fontwieght-regular">@day.DayNumber</h3>
+                        </div>
+                    }
+                </DayTemplate>
+            </Calendar>
         </div>
     </div>

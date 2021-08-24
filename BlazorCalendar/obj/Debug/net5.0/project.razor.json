@@ -8,250 +8,35 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -668045532,
+        "HashCode": 377875866,
         "Kind": "Components.Component",
-        "Name": "BlazorCalendar.Shared.MainLayout",
+        "Name": "BlazorCalendar.App",
         "AssemblyName": "BlazorCalendar",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "MainLayout"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Body",
-            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
-            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
-            "Metadata": {
-              "Common.PropertyName": "Body",
-              "Components.ChildContent": "True"
-            }
+            "TagName": "App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorCalendar.Shared.MainLayout"
+          "Common.TypeName": "BlazorCalendar.App"
         }
       },
       {
-        "HashCode": 348999725,
+        "HashCode": 1854766930,
         "Kind": "Components.Component",
-        "Name": "BlazorCalendar.Shared.MainLayout",
+        "Name": "BlazorCalendar.App",
         "AssemblyName": "BlazorCalendar",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorCalendar.Shared.MainLayout"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Body",
-            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
-            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
-            "Metadata": {
-              "Common.PropertyName": "Body",
-              "Components.ChildContent": "True"
-            }
+            "TagName": "BlazorCalendar.App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorCalendar.Shared.MainLayout",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 476442238,
-        "Kind": "Components.ChildContent",
-        "Name": "BlazorCalendar.Shared.MainLayout.Body",
-        "AssemblyName": "BlazorCalendar",
-        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Body",
-            "ParentTag": "MainLayout"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.None",
-          "Common.TypeName": "BlazorCalendar.Shared.MainLayout.Body",
-          "Components.IsSpecialKind": "Components.ChildContent"
-        }
-      },
-      {
-        "HashCode": -620545491,
-        "Kind": "Components.ChildContent",
-        "Name": "BlazorCalendar.Shared.MainLayout.Body",
-        "AssemblyName": "BlazorCalendar",
-        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Body",
-            "ParentTag": "BlazorCalendar.Shared.MainLayout"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.None",
-          "Common.TypeName": "BlazorCalendar.Shared.MainLayout.Body",
-          "Components.IsSpecialKind": "Components.ChildContent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 779155297,
-        "Kind": "Components.Component",
-        "Name": "BlazorCalendar.Shared.NavMenu",
-        "AssemblyName": "BlazorCalendar",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorCalendar.Shared.NavMenu"
-        }
-      },
-      {
-        "HashCode": -479700618,
-        "Kind": "Components.Component",
-        "Name": "BlazorCalendar.Shared.NavMenu",
-        "AssemblyName": "BlazorCalendar",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorCalendar.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorCalendar.Shared.NavMenu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 261461171,
-        "Kind": "Components.Component",
-        "Name": "BlazorCalendar.Shared.LoginDisplay",
-        "AssemblyName": "BlazorCalendar",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "LoginDisplay"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorCalendar.Shared.LoginDisplay"
-        }
-      },
-      {
-        "HashCode": 2137361100,
-        "Kind": "Components.Component",
-        "Name": "BlazorCalendar.Shared.LoginDisplay",
-        "AssemblyName": "BlazorCalendar",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorCalendar.Shared.LoginDisplay"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorCalendar.Shared.LoginDisplay",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 366333845,
-        "Kind": "Components.Component",
-        "Name": "BlazorCalendar.Shared.RedirectToLogin",
-        "AssemblyName": "BlazorCalendar",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "RedirectToLogin"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorCalendar.Shared.RedirectToLogin"
-        }
-      },
-      {
-        "HashCode": -1636286156,
-        "Kind": "Components.Component",
-        "Name": "BlazorCalendar.Shared.RedirectToLogin",
-        "AssemblyName": "BlazorCalendar",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorCalendar.Shared.RedirectToLogin"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorCalendar.Shared.RedirectToLogin",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1254479360,
-        "Kind": "Components.Component",
-        "Name": "BlazorCalendar.Shared.SurveyPrompt",
-        "AssemblyName": "BlazorCalendar",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorCalendar.Shared.SurveyPrompt"
-        }
-      },
-      {
-        "HashCode": -1476932675,
-        "Kind": "Components.Component",
-        "Name": "BlazorCalendar.Shared.SurveyPrompt",
-        "AssemblyName": "BlazorCalendar",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorCalendar.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorCalendar.Shared.SurveyPrompt",
+          "Common.TypeName": "BlazorCalendar.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -408,35 +193,250 @@
         }
       },
       {
-        "HashCode": 377875866,
+        "HashCode": 261461171,
         "Kind": "Components.Component",
-        "Name": "BlazorCalendar.App",
+        "Name": "BlazorCalendar.Shared.LoginDisplay",
         "AssemblyName": "BlazorCalendar",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "LoginDisplay"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorCalendar.App"
+          "Common.TypeName": "BlazorCalendar.Shared.LoginDisplay"
         }
       },
       {
-        "HashCode": 1854766930,
+        "HashCode": 2137361100,
         "Kind": "Components.Component",
-        "Name": "BlazorCalendar.App",
+        "Name": "BlazorCalendar.Shared.LoginDisplay",
         "AssemblyName": "BlazorCalendar",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorCalendar.App"
+            "TagName": "BlazorCalendar.Shared.LoginDisplay"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorCalendar.App",
+          "Common.TypeName": "BlazorCalendar.Shared.LoginDisplay",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 366333845,
+        "Kind": "Components.Component",
+        "Name": "BlazorCalendar.Shared.RedirectToLogin",
+        "AssemblyName": "BlazorCalendar",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "RedirectToLogin"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorCalendar.Shared.RedirectToLogin"
+        }
+      },
+      {
+        "HashCode": -1636286156,
+        "Kind": "Components.Component",
+        "Name": "BlazorCalendar.Shared.RedirectToLogin",
+        "AssemblyName": "BlazorCalendar",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorCalendar.Shared.RedirectToLogin"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorCalendar.Shared.RedirectToLogin",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1254479360,
+        "Kind": "Components.Component",
+        "Name": "BlazorCalendar.Shared.SurveyPrompt",
+        "AssemblyName": "BlazorCalendar",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorCalendar.Shared.SurveyPrompt"
+        }
+      },
+      {
+        "HashCode": -1476932675,
+        "Kind": "Components.Component",
+        "Name": "BlazorCalendar.Shared.SurveyPrompt",
+        "AssemblyName": "BlazorCalendar",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorCalendar.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorCalendar.Shared.SurveyPrompt",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 779155297,
+        "Kind": "Components.Component",
+        "Name": "BlazorCalendar.Shared.NavMenu",
+        "AssemblyName": "BlazorCalendar",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorCalendar.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": -479700618,
+        "Kind": "Components.Component",
+        "Name": "BlazorCalendar.Shared.NavMenu",
+        "AssemblyName": "BlazorCalendar",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorCalendar.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorCalendar.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -668045532,
+        "Kind": "Components.Component",
+        "Name": "BlazorCalendar.Shared.MainLayout",
+        "AssemblyName": "BlazorCalendar",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "MainLayout"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Body",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Body",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorCalendar.Shared.MainLayout"
+        }
+      },
+      {
+        "HashCode": 348999725,
+        "Kind": "Components.Component",
+        "Name": "BlazorCalendar.Shared.MainLayout",
+        "AssemblyName": "BlazorCalendar",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorCalendar.Shared.MainLayout"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Body",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Body",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorCalendar.Shared.MainLayout",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 476442238,
+        "Kind": "Components.ChildContent",
+        "Name": "BlazorCalendar.Shared.MainLayout.Body",
+        "AssemblyName": "BlazorCalendar",
+        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Body",
+            "ParentTag": "MainLayout"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "BlazorCalendar.Shared.MainLayout.Body",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": -620545491,
+        "Kind": "Components.ChildContent",
+        "Name": "BlazorCalendar.Shared.MainLayout.Body",
+        "AssemblyName": "BlazorCalendar",
+        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Body",
+            "ParentTag": "BlazorCalendar.Shared.MainLayout"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "BlazorCalendar.Shared.MainLayout.Body",
+          "Components.IsSpecialKind": "Components.ChildContent",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
