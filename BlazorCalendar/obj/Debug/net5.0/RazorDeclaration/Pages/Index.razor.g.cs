@@ -111,6 +111,19 @@ using BlazorCalendar.Models;
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 48 "C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\Pages\Index.razor"
+          
+
+        private CalendarDay selectedDay = new CalendarDay{
+
+            Date = DateTime.Now
+        };
+    
+
+#line default
+#line hidden
+#nullable disable
     }
 }
 #pragma warning restore 1591

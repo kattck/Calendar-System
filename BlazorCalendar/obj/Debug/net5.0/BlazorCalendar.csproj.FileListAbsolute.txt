@@ -647,3 +647,5 @@ C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Deb
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\BlazorCalendar.pdb
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\RazorDeclaration\Components\Calendar.razor.g.cs
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\Razor\Components\Calendar.razor.g.cs
+C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\RazorDeclaration\Components\AddEvent.razor.g.cs
+C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\Razor\Components\AddEvent.razor.g.cs
