@@ -8,11 +8,15 @@
         <!-- Not Authenticated Users-->
         <AuthorizeView>
             <NotAuthorized>
-              <a href="#" class="microsoft-login-button shadow-effect"><img src = "Assets/Images/Windows-Logo-PNG-Free-Image.png" alt="">Sign In</a>
+              <a href="authentication/login" class="microsoft-login-button shadow-effect"><img src = "Assets/Images/Windows-Logo-PNG-Free-Image.png" alt="">Sign In</a>
             </NotAuthorized>
         </AuthorizeView>
     </header>
 
+
+<AuthorizeView>
+    <!-- Only allowed for Authorized AD users  w/in tennant -->
+    <Authorized>
     <!-- Calendar Component -->
     <div class  = "row">
     
@@ -28,6 +32,24 @@
                     {
                         <div class="day shadow-effect @currentDayClass @selectedDayClass" @onclick ="() => selectedDay = day" >
                             <h3 class="ms-fontSize-24 ms-fontWeight-regular">@day.DayNumber</h3>
+
+                            <!-- If Condition to open First Event listed by Time. This could change base off API status -->
+                            @if(day.Events != null && day.Events.Count !=0){
+
+                                var firstEvent = day.Events.FirstOrDefault();
+
+                                <div class="day-event @firstEvent.Color">
+                                    
+                                    <!-- If To catch If Subject is too long -->
+                                    @if(firstEvent.Subject.Length > 25){
+                                        @firstEvent.Subject.Substring(0,25)<text>...</text>
+                                    }
+                                    else{
+                                        @firstEvent.Subject
+                                    }
+                                </div>
+                            }
+
                         </div>
                     }
                 </DayTemplate>
@@ -38,9 +60,15 @@
        <!--============================== Day Menu =========================================-->
       <div class="col-sm-12 col-md-12 col-lg-3">
         <AddEvent SelectedDay="selectedDay"/>
+
+        <EventsList SelectedDay ="selectedDay"/>
       </div>
 
     </div>
+        
+    </Authorized>
+</AuthorizeView>
+            
 
 
     <!-- Add Event Selection Code -->
@@ -51,4 +79,13 @@
 
             Date = DateTime.Now
         };
+
+        protected override void OnInitialized()
+                {
+                    AddEvent.OnEventAdded += () =>{
+
+                         StateHasChanged();   
+                    };
+                    //base.OnInitialized();
+                }
     }
