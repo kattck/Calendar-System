@@ -112,7 +112,7 @@ using BlazorCalendar.Models;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 75 "C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\Pages\Index.razor"
+#line 76 "C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\Pages\Index.razor"
           
 
         private CalendarDay selectedDay = new CalendarDay{
