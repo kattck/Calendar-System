@@ -494,59 +494,6 @@
         }
       },
       {
-        "HashCode": 273259137,
-        "Kind": "Components.Component",
-        "Name": "BlazorCalendar.Components.EventsList",
-        "AssemblyName": "BlazorCalendar",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "EventsList"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "SelectedDay",
-            "TypeName": "BlazorCalendar.Models.CalendarDay",
-            "Metadata": {
-              "Common.PropertyName": "SelectedDay"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorCalendar.Components.EventsList"
-        }
-      },
-      {
-        "HashCode": 596706834,
-        "Kind": "Components.Component",
-        "Name": "BlazorCalendar.Components.EventsList",
-        "AssemblyName": "BlazorCalendar",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorCalendar.Components.EventsList"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "SelectedDay",
-            "TypeName": "BlazorCalendar.Models.CalendarDay",
-            "Metadata": {
-              "Common.PropertyName": "SelectedDay"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorCalendar.Components.EventsList",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 1345616843,
         "Kind": "Components.Component",
         "Name": "BlazorCalendar.Components.Calendar",
@@ -679,6 +626,59 @@
           "Runtime.Name": "Components.None",
           "Common.TypeName": "BlazorCalendar.Components.Calendar.DayTemplate",
           "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 273259137,
+        "Kind": "Components.Component",
+        "Name": "BlazorCalendar.Components.EventsList",
+        "AssemblyName": "BlazorCalendar",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EventsList"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "SelectedDay",
+            "TypeName": "BlazorCalendar.Models.CalendarDay",
+            "Metadata": {
+              "Common.PropertyName": "SelectedDay"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorCalendar.Components.EventsList"
+        }
+      },
+      {
+        "HashCode": 596706834,
+        "Kind": "Components.Component",
+        "Name": "BlazorCalendar.Components.EventsList",
+        "AssemblyName": "BlazorCalendar",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorCalendar.Components.EventsList"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "SelectedDay",
+            "TypeName": "BlazorCalendar.Models.CalendarDay",
+            "Metadata": {
+              "Common.PropertyName": "SelectedDay"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorCalendar.Components.EventsList",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
