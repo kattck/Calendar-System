@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
+using BlazorCalendar.Services;
 
 namespace BlazorCalendar
 {
@@ -24,10 +25,11 @@ namespace BlazorCalendar
                 builder.Configuration.Bind("AzureAd", options.ProviderOptions.Authentication);
 
                 //Ask for permissions only
-                options.ProviderOptions.DefaultAccessTokenScopes.Add("https://graph.microsoft.com/Calendars.ReadWrite");
+                options.ProviderOptions.DefaultAccessTokenScopes.Add("https://graph.microsoft.com/Calendars.ReadWrite.Shared");
                 
             });
 
+            builder.Services.AddScoped<ICalendarEventsProvider, MicrosoftCalendarEventsProvider>();
             await builder.Build().RunAsync();
         }
     }

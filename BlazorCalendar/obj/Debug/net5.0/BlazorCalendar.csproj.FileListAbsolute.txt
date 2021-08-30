@@ -651,3 +651,6 @@ C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Deb
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\Razor\Components\AddEvent.razor.g.cs
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\RazorDeclaration\Components\EventsList.razor.g.cs
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\Razor\Components\EventsList.razor.g.cs
+C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\bin\Debug\net5.0\wwwroot\_framework\Newtonsoft.Json.dll.gz
+C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\bin\Debug\net5.0\wwwroot\_framework\Newtonsoft.Json.dll
+C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\build-gz\N0Upp52j.gz

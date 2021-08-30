@@ -34,6 +34,7 @@
       "Microsoft.Extensions.Primitives.dll": "sha256-f2PgoftqEkKRuuiAk6S1MHygOuqZBHzB0HOB3vR93TU=",
       "Microsoft.JSInterop.dll": "sha256-E3wWpdYhb0k2rxsSxtLYNRv652Vqa4jD10tJ7YcHMfU=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-qCntZAfBCtfByp1bUyV5HBcJpgteCGZZ1pMzH5kVDnE=",
+      "Newtonsoft.Json.dll": "sha256-cs8pHUurDt0IqbB8YXPh560au3q3J\/1wRL9jBddRVmE=",
       "System.IO.Pipelines.dll": "sha256-3ET+mpR7F058YRj9YaLHOVXBqOW6iUxtIpeiKPYw4PA=",
       "Microsoft.CSharp.dll": "sha256-twUgoMqRCjMxtXUIYt\/QO2nXdwn36f5Nz240MccEpOQ=",
       "Microsoft.VisualBasic.Core.dll": "sha256-RUn00o3YkpuvHph4uivfeOWDNhB7YxKW6e9szvw225k=",
@@ -200,11 +201,11 @@
       "mscorlib.dll": "sha256-9AZ7YsJz\/p2gr4E0EQXdHBqwDxoXqtzxhqC6aRsa2K8=",
       "netstandard.dll": "sha256-yOOty6BTX3e57YAEHK5a4nku\/lj0vi7jg\/eQZAjbDQk=",
       "System.Private.CoreLib.dll": "sha256-rraBQp6NevIQiELPVfDFDl5pv9QVJqCiZhB5bkpiZ88=",
-      "BlazorCalendar.dll": "sha256-0M3gkABa0D4NzxwgTFlRVWiWnDYKUtvr9OhuaYF1hGg="
+      "BlazorCalendar.dll": "sha256-EwwCf9mjr42BzS3Gd2+QeQ04mzPQsF5Z8vfdKNgTie4="
     },
     "lazyAssembly": null,
     "pdb": {
-      "BlazorCalendar.pdb": "sha256-OWI2B+ebV\/TTIjwXQAYfcYyW0lrqHGN4ycPl7brV46A="
+      "BlazorCalendar.pdb": "sha256-NK8nPvtcekQCCSqd3jpBiIe24uJpCcekQ6MbX6RMnmc="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-L2vkcKzmXJtf+J7db5TbDMBckrgqJ5qc0ZzVIdRlm0I=",

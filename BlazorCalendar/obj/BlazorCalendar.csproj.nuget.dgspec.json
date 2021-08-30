@@ -59,6 +59,10 @@
               "target": "Package",
               "version": "[5.0.9, )"
             },
+            "Newtonsoft.json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "System.Net.Http.Json": {
               "target": "Package",
               "version": "[5.0.0, )"
