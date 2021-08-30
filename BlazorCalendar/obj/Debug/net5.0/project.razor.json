@@ -309,39 +309,6 @@
         }
       },
       {
-        "HashCode": 721244258,
-        "Kind": "Components.Component",
-        "Name": "BlazorCalendar.Pages.Counter",
-        "AssemblyName": "BlazorCalendar",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorCalendar.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": -1628884327,
-        "Kind": "Components.Component",
-        "Name": "BlazorCalendar.Pages.Counter",
-        "AssemblyName": "BlazorCalendar",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorCalendar.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorCalendar.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 341852161,
         "Kind": "Components.Component",
         "Name": "BlazorCalendar.Pages.FetchData",
@@ -371,6 +338,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorCalendar.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 721244258,
+        "Kind": "Components.Component",
+        "Name": "BlazorCalendar.Pages.Counter",
+        "AssemblyName": "BlazorCalendar",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorCalendar.Pages.Counter"
+        }
+      },
+      {
+        "HashCode": -1628884327,
+        "Kind": "Components.Component",
+        "Name": "BlazorCalendar.Pages.Counter",
+        "AssemblyName": "BlazorCalendar",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorCalendar.Pages.Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorCalendar.Pages.Counter",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
