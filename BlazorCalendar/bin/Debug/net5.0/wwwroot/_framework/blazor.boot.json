@@ -201,11 +201,11 @@
       "mscorlib.dll": "sha256-9AZ7YsJz\/p2gr4E0EQXdHBqwDxoXqtzxhqC6aRsa2K8=",
       "netstandard.dll": "sha256-yOOty6BTX3e57YAEHK5a4nku\/lj0vi7jg\/eQZAjbDQk=",
       "System.Private.CoreLib.dll": "sha256-rraBQp6NevIQiELPVfDFDl5pv9QVJqCiZhB5bkpiZ88=",
-      "BlazorCalendar.dll": "sha256-o6lPypS2kstEAnSzy+f6r5WoQqUkiBLCsAgLg3QhbNU="
+      "BlazorCalendar.dll": "sha256-loiCYPnJCoq4BmyuAxzyw1g0uoooqxH0Hi9T+Yy71ZE="
     },
     "lazyAssembly": null,
     "pdb": {
-      "BlazorCalendar.pdb": "sha256-8mCqGUNQhqZB4kGPsMIW1OaMPyxDxFqJXNn\/VKDGlW8="
+      "BlazorCalendar.pdb": "sha256-GsvZnpvxKJFfwviubvdt2qinE3qmncxyyutXz7ONH0M="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-L2vkcKzmXJtf+J7db5TbDMBckrgqJ5qc0ZzVIdRlm0I=",
