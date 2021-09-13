@@ -31,6 +31,7 @@ C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\bin\Deb
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\bin\Debug\net5.0\wwwroot\_framework\Newtonsoft.Json.dll.gz
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
@@ -229,6 +230,7 @@ C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\bin\Deb
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\bin\Debug\net5.0\wwwroot\_framework\Newtonsoft.Json.dll
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
@@ -410,6 +412,9 @@ C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Deb
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\BlazorCalendar.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\BlazorCalendar.RazorComponent.input.cache
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\RazorDeclaration\Components\AddEvent.razor.g.cs
+C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\RazorDeclaration\Components\Calendar.razor.g.cs
+C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\RazorDeclaration\Components\EventsList.razor.g.cs
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\RazorDeclaration\Pages\Authentication.razor.g.cs
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\RazorDeclaration\Shared\LoginDisplay.razor.g.cs
@@ -424,6 +429,9 @@ C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Deb
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\BlazorCalendar.TagHelpers.output.cache
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\BlazorCalendar.RazorCoreGenerate.cache
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\Razor\Components\AddEvent.razor.g.cs
+C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\Razor\Components\Calendar.razor.g.cs
+C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\Razor\Components\EventsList.razor.g.cs
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\Razor\Pages\Authentication.razor.g.cs
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\Razor\Shared\LoginDisplay.razor.g.cs
@@ -457,6 +465,7 @@ C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Deb
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\build-gz\K+BHawv6.gz
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\build-gz\LOh9t9ki.gz
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\build-gz\0VOUaJFl.gz
+C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\build-gz\N0Upp52j.gz
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\build-gz\jBvFGoHi.gz
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\build-gz\ODPOnsGk.gz
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\build-gz\Fih1tpvo.gz
@@ -641,12 +650,3 @@ C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Deb
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\BlazorCalendar.dll
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\ref\BlazorCalendar.dll
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\BlazorCalendar.pdb
-C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\RazorDeclaration\Components\Calendar.razor.g.cs
-C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\Razor\Components\Calendar.razor.g.cs
-C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\RazorDeclaration\Components\AddEvent.razor.g.cs
-C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\Razor\Components\AddEvent.razor.g.cs
-C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\RazorDeclaration\Components\EventsList.razor.g.cs
-C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\Razor\Components\EventsList.razor.g.cs
-C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\bin\Debug\net5.0\wwwroot\_framework\Newtonsoft.Json.dll.gz
-C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\bin\Debug\net5.0\wwwroot\_framework\Newtonsoft.Json.dll
-C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\build-gz\N0Upp52j.gz

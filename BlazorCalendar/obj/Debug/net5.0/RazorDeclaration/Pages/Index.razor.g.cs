@@ -133,7 +133,7 @@ using BlazorCalendar.Services;
 
                          StateHasChanged();   
                     };
-                    //base.OnInitialized();
+                    base.OnInitialized();
                 }
     
 
