@@ -136,6 +136,11 @@ header {
     color: #0078d4;
 }
 
+.dayBlue{
+   color: white;
+   background: #004e8c;
+}
+
 /* Calendar Day Section*/
 
 .calednar-toolbar{
