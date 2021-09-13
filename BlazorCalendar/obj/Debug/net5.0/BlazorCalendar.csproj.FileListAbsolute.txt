@@ -411,8 +411,6 @@ C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Deb
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\BlazorCalendar.RazorComponent.input.cache
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\RazorDeclaration\Pages\Authentication.razor.g.cs
-C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
-C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\RazorDeclaration\Shared\LoginDisplay.razor.g.cs
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\RazorDeclaration\Shared\RedirectToLogin.razor.g.cs
@@ -427,8 +425,6 @@ C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Deb
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\BlazorCalendar.RazorCoreGenerate.cache
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\Razor\App.razor.g.cs
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\Razor\Pages\Authentication.razor.g.cs
-C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
-C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\Razor\Shared\LoginDisplay.razor.g.cs
 C:\Users\kattc\source\repos\Admin Preview\Admin Preview-1\BlazorCalendar\obj\Debug\net5.0\Razor\Shared\RedirectToLogin.razor.g.cs

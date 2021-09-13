@@ -203,3 +203,10 @@ header {
 .card{
     margin: 10px;
 }
+
+/* Make invisible */
+
+.invisible{
+    display: none;
+    visibility: hidden;
+}
